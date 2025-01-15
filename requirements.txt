@@ -2,6 +2,7 @@ openpyxl
 streamlit
 pandas
 numpy
+streamlit_javascript
 google-auth
 oauth2client
 gspread
